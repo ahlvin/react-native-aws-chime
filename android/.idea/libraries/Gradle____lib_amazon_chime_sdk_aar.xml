@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: ./lib/amazon-chime-sdk.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/beab22bba7a197b38a847ee27d5c1aa8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/beab22bba7a197b38a847ee27d5c1aa8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

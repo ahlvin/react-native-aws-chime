@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "Eric Tieniber",
+    "email": "eric.tieniber@mendix.com"
+  },
+  "bugs": {
+    "url": "https://github.com/tieiber/react-native-aws-chime/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A react native module for using AWS Chime videoconferencing.",
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  },
+  "homepage": "https://github.com/github_account/react-native-aws-chime#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "main": "index.js",
+  "name": "react-native-aws-chime",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tieniber/react-native-aws-chime.git",
+    "baseUrl": "https://github.com/tieniber/react-native-aws-chime"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "title": "React Native Aws Chime",
+  "version": "1.0.4"
+}
