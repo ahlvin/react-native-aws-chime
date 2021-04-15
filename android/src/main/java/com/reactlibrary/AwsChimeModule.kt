@@ -137,7 +137,10 @@ class AwsChimeModule(
         meetingSession?.audioVideo?.stop()
         eventEmitter.sendReactNativeEvent(RNEventEmitter.RN_EVENT_MEETING_END, null)
     }
-
+    @ReactMethod
+     fun switchCamera() {
+        meetingSession?.audioVideo?.switchCamera()
+   }
     @ReactMethod
     fun setMute(isMute: Boolean) {
         logger.info(TAG, "Called setMute: $isMute")
