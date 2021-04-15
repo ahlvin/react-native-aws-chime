@@ -51,6 +51,7 @@ export const NativeFunction = {
   startMeeting: NativeModules.NativeMobileSDKBridge.startMeeting,
   stopMeeting: NativeModules.NativeMobileSDKBridge.stopMeeting,
   setMute: NativeModules.NativeMobileSDKBridge.setMute,
+  switchCamera: NativeModules.NativeMobileSDKBridge.switchCamera,
   setCameraOn: NativeModules.NativeMobileSDKBridge.setCameraOn,
   bindVideoView: NativeModules.NativeMobileSDKBridge.bindVideoView,
   unbindVideoView: NativeModules.NativeMobileSDKBridge.unbindVideoView,
